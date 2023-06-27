@@ -6,19 +6,19 @@ Bem-vindo ao repositório da Equipe DjangoApi! Estamos felizes em compartilhar n
 
 Conheça os membros incríveis que compõem nossa equipe:
 
-1. **Abyner** - Desenvolvedor Full Stack
+1. **Abyner** - Desenvolvedor
    - GitHub: [Abyner](https://github.com/Abyner)
 
-2. **Acássio** - Desenvolvedor Full Stack
+2. **Acássio** - Desenvolvedor
    - GitHub: [Acássio](https://github.com/Acássio)
 
-3. **Weverton** - Desenvolvedor Full Stack
+3. **Weverton** - Desenvolvedor
    - GitHub: [Weverton](https://github.com/Weverton)
 
-4. **Thiago** - Desenvolvedor Full Stack
+4. **Thiago** - Desenvolvedor
    - GitHub: [Thiago](https://github.com/Thiago)
 
-## Áreas de Especialização
+## Tecnologias Usadas
 
 Nossa equipe trabalhou com:
 
