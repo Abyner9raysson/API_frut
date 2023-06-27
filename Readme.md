@@ -22,11 +22,11 @@ Conheça os membros incríveis que compõem nossa equipe:
 
 Nossa equipe trabalhou com:
 
-- Python
-- Django
-- Insomnia
-- Git
-- GitHub
+- `Python`
+- `Django`
+- `Insomnia`
+- `Git`
+- `GitHub`
 
 
 ## Entre em Contato
