@@ -15,7 +15,7 @@ Conheça os membros incríveis que compõem nossa equipe:
    - Matricula: `01105332`
 
 3. **Weverton** - Desenvolvedor
-   - GitHub: [Weverton](https://github.com/Weverton)
+   - GitHub: [wevertonrafael](https://github.com/wevertonrafael)
    - Matricula: `GitHub`
 
 4. **Thiago** - Desenvolvedor
