@@ -16,7 +16,7 @@ Conheça os membros incríveis que compõem nossa equipe:
    - GitHub: [Weverton](https://github.com/Weverton)
 
 4. **Thiago** - Desenvolvedor
-   - GitHub: [Thiago](https://github.com/Thiago)
+   - GitHub: [ThiagoReefMan](https://github.com/ThiagoReefMan)
 
 ## Tecnologias Usadas
 
