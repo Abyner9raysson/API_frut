@@ -1,6 +1,6 @@
 # Equipe DjangoApi
 
-Bem-vindo ao repositório da Equipe DjangoApi_TinocoFrut! Estamos felizes em compartilhar nosso trabalho e experiência com você. Aqui estão algumas informações sobre nossa equipe.
+Bem-vindo ao repositório da Equipe _DjangoApiTinocoFrut_ ! Estamos felizes em compartilhar nosso trabalho e experiência com você. Aqui estão algumas informações sobre nossa equipe.
 
 ## Neste projeto temos as seguintes _APi's_:
 
