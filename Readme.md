@@ -7,10 +7,10 @@ Bem-vindo ao repositório da Equipe DjangoApi! Estamos felizes em compartilhar n
 Conheça os membros incríveis que compõem nossa equipe:
 
 1. **Abyner** - Desenvolvedor
-   - GitHub: [Abyner](https://github.com/Abyner)
+   - GitHub: [Abyner9raysson](https://github.com/Abyner)
 
 2. **Acássio** - Desenvolvedor
-   - GitHub: [Acássio](https://github.com/Acássio)
+   - GitHub: [Acassiodev](https://github.com/Acassiodev)
 
 3. **Weverton** - Desenvolvedor
    - GitHub: [Weverton](https://github.com/Weverton)
