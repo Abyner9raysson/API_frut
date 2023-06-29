@@ -29,7 +29,7 @@ def cad_view(request):
 
         user = Usuarios(username=username, senha=senha)
         user.save()
-        return JsonResponse({'status': 'Usuário cadastrado com sucesso'}, status=200)
+        return JsonResponse({'status': 'cadastrado com sucesso'}, status=200)
     
     elif request.method == 'PUT':
         decode_json = request.body.decode('utf-8')

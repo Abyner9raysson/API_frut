@@ -24,7 +24,7 @@ def RH_view(request):
         if not all([nome, cargo, salario, cargaHoraria, folhaPonto, setor]):
             return JsonResponse({'message': 'preencha todos os campos'}, status=400)
 
-        if not RecursosH.objects.filter(nome=nome):
+        if not RecursosH.objects.filter():
             recursos = RecursosH(nome=nome, cargo=cargo, salario=salario, cargaHoraria=cargaHoraria,folhaPonto=folhaPonto,setor=setor)
             recursos.save()
             return JsonResponse({'message': 'adicionado com sucesso'}, status=200)
@@ -47,7 +47,7 @@ def RH_view(request):
             return JsonResponse({'message': 'preencha todos os campos'}, status=400)
 
         try:
-            recursos = RecursosH.objects.get(nome=nome,cargo=cargo) #recebe o nome e cargo para poder atualizar
+            recursos = RecursosH.objects.get(nome=nome) 
         except RecursosH.DoesNotExist:
             return JsonResponse({'message': 'Funcionario não encontrado'}, status=404)
 

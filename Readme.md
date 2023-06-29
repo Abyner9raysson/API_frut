@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório da Equipe _DjangoApiTinocoFrut_ ! Estamos felizes em compartilhar nosso trabalho e experiência com você. Aqui estão algumas informações sobre nossa equipe.
 
+## Link do vídeo de Apresentação
+
+   - YouTube: [Link](https://www.youtube.com/watch?v=7sdAWro5E3M)
+
 ## Neste projeto temos as seguintes _APi's_:
 
 - `login`
